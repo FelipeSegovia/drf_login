@@ -1,0 +1,7 @@
+{
+  "first_name": "Maritza",
+  "last_name": "Rodriguez",
+  "username": "[ErrorDetail(string='Nombre de usuario ya encontrado', code='invalid')]",
+  "email": "[ErrorDetail(string='El email ya se encuentra registrado', code='invalid')]",
+  "password": "mrodriguez123"
+}
